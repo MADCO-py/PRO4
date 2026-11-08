@@ -1,0 +1,11 @@
+test_ejemplos (test_calculadora.Pruebas.test_ejemplos) ... ok
+test_ejemplos_con_oraculo_racional (test_calculadora.Pruebas.test_ejemplos_con_oraculo_racional) ... ok
+test_entradas_invalidas (test_calculadora.Pruebas.test_entradas_invalidas) ... ok
+test_operaciones_en_varios_primos (test_calculadora.Pruebas.test_operaciones_en_varios_primos) ... ok
+test_precedencia_y_exponentes (test_calculadora.Pruebas.test_precedencia_y_exponentes) ... ok
+test_interaccion_real (test_gui.PruebasGUI.test_interaccion_real) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.216s
+
+OK
